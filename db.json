@@ -1,0 +1,87 @@
+{
+    "categories": [
+      {
+        "name": "Vanity Cabinets",
+        "products": [
+          {
+            "id": 1,
+            "name": "Vanity Cabinet - K5112",
+            "price": 243200.00,
+            "currency": "KES",
+            "image": "path/to/vanity_cabinet_k5112.jpg",
+            "description": "Stylish vanity cabinet with a sleek design.",
+            "category": "Vanity Cabinets"
+          },
+          {
+            "id": 2,
+            "name": "Vanity Cabinet - K5087",
+            "price": 252000.00,
+            "currency": "KES",
+            "image": "path/to/vanity_cabinet_k5087.jpg",
+            "description": "Premium vanity cabinet with a modern look.",
+            "category": "Vanity Cabinets"
+          },
+          {
+            "id": 3,
+            "name": "Bathroom Vanity with Sink - K3109",
+            "price": 230000.00,
+            "currency": "KES",
+            "image": "path/to/bathroom_vanity_sink_k3109.jpg",
+            "description": "Complete bathroom vanity set with sink.",
+            "category": "Vanity Cabinets"
+          }
+        ]
+      },
+      {
+        "name": "Toilets",
+        "products": [
+          {
+            "id": 4,
+            "name": "Top Flush Close Couple Toilet Set",
+            "price": 91400.00,
+            "currency": "KES",
+            "image": "path/to/top_flush_close_couple_toilet.jpg",
+            "description": "Durable toilet set with modern flush system.",
+            "category": "Toilets"
+          },
+          {
+            "id": 5,
+            "name": "One Piece Toilet",
+            "price": 89200.00,
+            "currency": "KES",
+            "image": "path/to/one_piece_toilet.jpg",
+            "description": "Compact one-piece toilet for smaller spaces.",
+            "category": "Toilets"
+          }
+        
+        ]
+      },
+      {
+        "name": "Top Deals",
+        "products": [
+          {
+            "id": 6,
+            "name": "Smart Vanity Cabinet - K3107",
+            "price": 190000.00,
+            "currency": "KES",
+            "discount": "5%",
+            "image": "path/to/smart_vanity_cabinet_k3107.jpg",
+            "description": "Smart vanity cabinet with a sleek and modern design.",
+            "category": "Top Deals"
+          },
+          {
+            "id": 7,
+            "name": "Wall Mounted Mixer",
+            "price": 84000.00,
+            "currency": "KES",
+            "discount": "10%",
+            "image": "path/to/wall_mounted_mixer.jpg",
+            "description": "High-quality wall-mounted mixer tap for showers.",
+            "category": "Top Deals"
+          }
+          
+        ]
+      }
+    ]
+  }
+  
